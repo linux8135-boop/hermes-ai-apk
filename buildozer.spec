@@ -22,7 +22,7 @@ source.include_exts = py,png,jpg,kv,atlas
 source.include_patterns = assets/*
 
 # (list) List of requirements (pip packages)
-requirements = python3,kivy,openssl,requests,websockets,urllib3,chardet,idna
+requirements = python3,kivy,websockets,requests
 
 # (str) Presplash of the application
 presplash.filename = assets/icon-48.png
