@@ -1,0 +1,6 @@
+"""Build-time config template.
+GitHub Actions creates this from secrets.
+"""
+BOT_TOKEN = ""
+AUTHORIZED_USER = ""
+API_KEY = ""
